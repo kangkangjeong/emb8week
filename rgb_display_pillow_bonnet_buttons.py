@@ -161,4 +161,3 @@ while True:
     disp.image(image)
 
     time.sleep(0.01)
-//python3 rgb_display_pillow_bonnet_buttons.py 실행
